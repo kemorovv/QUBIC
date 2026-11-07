@@ -1,0 +1,27 @@
+{
+  "language": "en",
+  "theme": "dark",
+  "default_export_format": "PNG",
+  "default_qr_size": 1024,
+  "default_error_correction": "M",
+  "default_export_directory": "",
+  "remember_last_settings": true,
+  "recent_colors": [
+    "#000000",
+    "#FFFFFF",
+    "#9565FF",
+    "#101014",
+    "#2563EB",
+    "#059669",
+    "#D97706",
+    "#E11D48"
+  ],
+  "last_customization": {
+    "fg_color": "#000000",
+    "bg_color": "#FFFFFF",
+    "style": "classic",
+    "error_correction": "M",
+    "size": 1024,
+    "transparent_bg": false
+  }
+}

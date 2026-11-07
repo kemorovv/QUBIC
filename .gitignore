@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller & Packaging builds
+dist/
+build/QUBIC/
+*.manifest
+*.BAK
+
+# Local SQLite databases & user data
+*.db
+*.sqlite
+*.sqlite3
+user_data/
+
+# Pytest & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
