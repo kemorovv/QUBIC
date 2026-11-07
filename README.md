@@ -41,15 +41,6 @@
   - Full **English** and **Russian** interface translations switchable at runtime without restarting.
   - **Dark** (default), **Light**, and **System** themes.
 
-## Screenshots
-
-> *Placeholders for application screenshots:*
->
-> - `docs/screenshots/generator_dark.png` — *Generator Workspace & Live Preview (Dark Theme)*
-> - `docs/screenshots/customization_logo.png` — *Custom Colors, Module Styles & Center Logo Integration*
-> - `docs/screenshots/history_templates.png` — *Local SQLite History & Starter Templates*
-> - `docs/screenshots/settings_ru.png` — *Settings & Russian Localization*
-
 ## Technology Stack
 
 - **Python 3.11+** — Core application logic and modular architecture
